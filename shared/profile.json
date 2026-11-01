@@ -1,0 +1,230 @@
+{
+  "name": "Harsh Sinha",
+  "handle": "harsh",
+  "role": "Full-Stack Developer | AI & GenAI Enthusiast",
+  "tagline": "I build practical web applications and AI-powered tools that turn ideas into useful experiences.",
+  "location": "Ghaziabad, Uttar Pradesh, India",
+  "email": "harshsinha79030@gmail.com",
+  "phone": "9471210409",
+  "github": "https://github.com/Harsh94712",
+  "linkedin": "https://linkedin.com/in/harsh-sinha-4a3996292",
+  "summary": [
+    "I'm a Computer Science Engineering student at Raj Kumar Goel Institute of Technology (AKTU), Ghaziabad, with a current SGPA of 8.1.",
+    "I build full-stack web apps and AI-powered tools with React, Node.js and Python. This year I worked as a VAPT intern at Tata Advanced Systems, and I'm President of the Binary Club at my college."
+  ],
+  "education": [
+    {
+      "school": "Raj Kumar Goel Institute of Technology (AKTU)",
+      "degree": "B.Tech, Computer Science Engineering",
+      "period": "Aug 2023 – Present",
+      "note": "Ghaziabad, UP. Current SGPA 8.1"
+    },
+    {
+      "school": "Govt. Boys High School, Patna",
+      "degree": "Intermediate (Class XII), BSEB",
+      "period": "June 2023",
+      "note": ""
+    },
+    {
+      "school": "Patliputra Central School, Patna",
+      "degree": "Matriculation (Class X), CBSE",
+      "period": "June 2021",
+      "note": ""
+    }
+  ],
+  "experience": [
+    {
+      "role": "VAPT Intern",
+      "org": "Tata Advanced Systems",
+      "period": "Aug 2026 – Sep 2026",
+      "project": "Internal ISO Compliance Tool",
+      "bullets": [
+        "Analyzed the end-to-end workflow and architecture of an internal ISO compliance tool, focusing on LLM-based document processing and AI-driven analysis.",
+        "Researched lightweight Chinese AI/LLM models to find suitable options for efficient document processing and AI workflows.",
+        "Integrated OpenOCR into the existing document-processing pipeline to extract text from scanned and image-based documents.",
+        "Dockerized the application and configured IP-based local network access so devices on the same Wi-Fi network could use the tool.",
+        "Explored a LangChain-to-LangGraph migration, studying graph-based workflow orchestration, state, nodes, edges and execution parameters.",
+        "Ran SOUP testing of a Chinese AI model and created a dedicated evaluation dataset for testing and analysis."
+      ]
+    },
+    {
+      "role": "Winter Internship Trainee",
+      "org": "Netcamp Solutions Pvt. Ltd. (with RKGIT), Ghaziabad",
+      "period": "Dec 2024 – Feb 2025",
+      "bullets": [
+        "Completed industrial training in Network Management, Web Development and Android Development (Core Java), with hands-on work across networking, web technologies and app development."
+      ]
+    },
+    {
+      "role": "Frontend Web Development Intern",
+      "org": "CodeAlpha, Remote",
+      "period": "Jan 2025",
+      "bullets": [
+        "Built responsive web apps with HTML, CSS and JavaScript, including a Calculator with day/night mode and a Music Player with theme switching and local playback. Deployed on Vercel and versioned on GitHub."
+      ]
+    },
+    {
+      "role": "President",
+      "org": "Binary Club, CSE Department, RKGIT",
+      "period": "Oct 2024 – Present",
+      "bullets": [
+        "Organized technical events (Binary Tech Auction, Binary Hacks 3.0, coding competitions) and led team planning and execution."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio Website",
+      "period": "Nov 2026",
+      "stack": [
+        "React",
+        "Vite",
+        "Node.js",
+        "Express",
+        "CSS"
+      ],
+      "summary": "A responsive personal portfolio showcasing my projects, experience, technical skills and AI work.",
+      "bullets": [
+        "Built a responsive portfolio with interactive sections, project previews and dark/light theme support.",
+        "Integrated a contact form with email delivery and an AI-powered resume assistant."
+      ],
+      "repo":"https://github.com/Harsh94712/portfolio",
+      "live": "https://harshsinha.in",
+      "image": "/projects/portfolio-preview.jpg",
+      "featured": true
+    },
+    {
+      "name": "Cognexa",
+      "period": "Aug 2026",
+      "stack": [
+        "React",
+        "TypeScript",
+        "Tailwind",
+        "Node.js",
+        "Express",
+        "Python",
+        "FastAPI",
+        "Firebase"
+      ],
+      "summary": "Bilingual (English/Hindi) AI mental-wellness platform for students.",
+      "bullets": [
+        "Built a full-stack platform with an AI chatbot, mood tracking, journaling, analytics, streaks and personalized recommendations.",
+        "Integrated Firebase Authentication and Firestore for user management and real-time data, with Python/FastAPI services behind the AI features."
+      ],
+      "repo": "https://github.com/Harsh94712/mindbridge-ai8",
+      "live": "https://mindbridge-ai8.onrender.com/",
+      "image": "/projects/mindbridge-dashboard.png",
+      "featured": false
+    },
+    {
+      "name": "Agronova",
+      "period": "Aug 2025",
+      "stack": [
+        "React",
+        "Firebase",
+        "TypeScript",
+        "Tailwind CSS",
+        "EmailJS"
+      ],
+      "summary": "Gamified agri-education platform with quizzes and an AI planting assistant.",
+      "bullets": [
+        "Developed interactive quizzes, an AI-powered planting assistant, progress tracking and a real-time leaderboard to keep learners engaged.",
+        "Implemented Firebase authentication and database integration plus EmailJS communication, and deployed on Vercel."
+      ],
+      "repo": "https://github.com/Harsh94712/AgroNova11",
+      "live": "https://agro-nova11.vercel.app/",
+      "image": "/projects/agronova-dashboard.png",
+      "featured": true
+    },
+    {
+      "name": "Smart AI Resume Generator",
+      "period": "Sep – Oct 2024",
+      "stack": [
+        "Python",
+        "Streamlit",
+        "Gemini API",
+        "HTML",
+        "CSS"
+      ],
+      "summary": "AI resume builder with live preview and customizable templates.",
+      "bullets": [
+        "Used the Gemini API to generate professional resume content from user inputs, with customizable templates.",
+        "Implemented real-time editing, live preview and dynamic resume generation, deployed on Streamlit Cloud."
+      ],
+      "repo": "https://github.com/Harsh94712/Smart-Internz-Project",
+      "live": "https://smart-internz-project-hyaktaxjkv7opdhcuplfpf.streamlit.app/",
+      "image": "/projects/resume-generator.png"
+    },
+    {
+      "name": "AI-Powered Resume Chatbot",
+      "period": "Oct 2026",
+      "stack": [
+        "AI",
+        "Resume-grounded Q&A"
+      ],
+      "summary": "Ask my AI resume assistant about my experience, projects, skills and background.",
+      "bullets": [
+        "Built a resume-grounded AI assistant that answers questions about my experience, projects and technical skills.",
+        "Includes suggested prompts and a direct resume download link."
+      ],
+      "repo": "https://github.com/Harsh94712/resume-chat",
+      "live": "https://chat.harshsinha.in/",
+      "image": "/projects/resume-chatbot.png",
+      "featured": false
+    }
+  ],
+  "skills": {
+    "Languages": [
+      "Python",
+      "SQL",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "TypeScript"
+    ],
+    "Frameworks": [
+      "React",
+      "Tailwind CSS",
+      "Streamlit",
+      "Firebase",
+      "Node.js",
+      "Express",
+      "FastAPI"
+    ],
+    "AI and APIs": [
+      "Gemini API",
+      "Hugging Face Transformers",
+      "PyTorch",
+      "RAG",
+      "EmailJS"
+    ],
+    "AI tools": [
+      "Claude Code",
+      "Cursor",
+      "GitHub Copilot",
+      "ChatGPT",
+      "Gemini"
+    ],
+    "Dev tools": [
+      "Git",
+      "GitHub",
+      "VS Code",
+      "Vercel",
+      "Streamlit Cloud"
+    ],
+    "Core subjects": [
+      "OOPs",
+      "DBMS",
+      "Operating Systems",
+      "Computer Networks"
+    ]
+  },
+  "certifications": [
+    "Programming in Java, NPTEL (May 2025)",
+    "Java Certification, HackerRank (Dec 2024)",
+    "CSS Certification, HackerRank (Dec 2024)",
+    "Cyber Job Simulation, Forage",
+    "Tata Group Cybersecurity Analyst Job Simulation, Forage",
+    "Introduction to MS Excel, Microsoft"
+  ]
+}

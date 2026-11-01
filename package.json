@@ -1,0 +1,14 @@
+{
+  "name": "harsh-portfolio",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "workspaces": ["client", "server"],
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "dev": "concurrently -n api,web -c yellow,cyan \"npm run dev -w server\" \"npm run dev -w client\"",
+    "build": "npm run build -w client",
+    "start": "npm start -w server"
+  },
+  "devDependencies": { "concurrently": "^9.1.0" }
+}
